@@ -1,0 +1,6 @@
+||googletagmanager.com^
+||googlesyndication.com^
+||adservice.google.com
+||doubleclick.net^
+||www.google-analytics.com^
+||www.googletagservices.com^
